@@ -1,3 +1,11 @@
+![Neon Trivia Arena](cover.svg)
+
+> **Panda3D · Python · Interactive game**
+
+**Area:** Game Development · [Browse project files](./)
+
+---
+
 # Neon Trivia Arena
 
 A Python, Panda3D game project.
